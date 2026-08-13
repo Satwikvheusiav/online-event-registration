@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "campus-event-registration"
-  }
+    "default": "campusevent-5abbc"
+  },
+  "targets": {},
+  "etags": {}
 }
